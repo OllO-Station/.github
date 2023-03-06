@@ -2,18 +2,10 @@
 
 <h1>OLLO Station</h1>
 
-<img src="../assets/light.jpg" height="250" style="border-radius: 12px; box-shadow: 0px 0px 16px rgba(0,0,0,0.15); border: 1px solid rgba(0,0,0,0.2)"/>
-<br/>
-
 <p align="center">
 <br/>
 <h3>Learn more about <a href="https://ollostation.zone">the project</a>, explore <a href="https://explorer.ollo.zone">the testnet</a>, or visit <a href="https://docs.ollo.zone">the docs</a>.</h3>
 </p>
-
-
-<img src="../assets/logo.png" height="50" align="center"/>
-
-
 
 </div>
 
